@@ -1,0 +1,10 @@
+{
+    "autoload" : {
+        "psr-4": {
+            "php-rest-mongo\\": "src/"
+        },
+        "require": {
+            "mongodb/mongodb": "^1.0"
+        }
+    }
+}
